@@ -245,7 +245,10 @@ body {
 
 .slider {
   position: relative;
-  min-width: 1110px;
+}
+
+.slider__img {
+  width: 100%;
   height: auto;
 }
 
